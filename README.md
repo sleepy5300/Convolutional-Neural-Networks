@@ -1,4 +1,4 @@
-# Foundations of Convolutional Neural Networks
+# Convolutional Neural Networks
 
 This course will teach you how to build convolutional neural networks and apply it to image data. Thanks to deep learning, computer vision is working far better than just two years ago, and this is enabling numerous exciting applications ranging from safe autonomous driving, to accurate face recognition, to automatic reading of radiology images. 
 
